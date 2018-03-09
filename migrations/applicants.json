@@ -1,0 +1,10 @@
+[
+    {
+        "email": "test@example.dummy",
+        "name": "lorem",
+        "code": "012931",
+        "ipAddress": "192.168.0.1",
+        "createdAt": "20170922",
+        "updatedAt": "20170922"
+    }
+]
