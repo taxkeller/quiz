@@ -183,7 +183,7 @@ const resultGetServerInfo = (data) => {
     const serverInfo = {
       message: 'Great. Please log in following server with these information.',
       server: process.env.SERVER_IP,
-      user: process.env.USER,
+      user: process.env.USER_NAME,
       passphrase: process.env.PASSPHRASE,
       privateKey: privateKey
     };
